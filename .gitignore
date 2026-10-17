@@ -1,0 +1,9 @@
+node_modules/
+artifacts/
+cache/
+web/dist/
+web/deployment.json
+.env
+*.log
+test-results/
+judge/data/

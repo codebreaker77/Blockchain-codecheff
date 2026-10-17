@@ -1,0 +1,13 @@
+{
+  "timestamp_utc": "2026-10-17T09:39:20.875Z",
+  "matchId": 1,
+  "signedSubmissions": 2,
+  "independentVerifierProcesses": 6,
+  "primaryVotesForA": 3,
+  "appealVotesForA": 3,
+  "settledWinner": "A",
+  "prizeClaimedCHEF": "20",
+  "realSandboxExecution": true,
+  "keeperSettlement": true,
+  "passed": true
+}

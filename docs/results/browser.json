@@ -1,0 +1,13 @@
+{
+  "desktop": true,
+  "mobile": true,
+  "spectator": true,
+  "wallet_switch": true,
+  "create_match": true,
+  "accept_match": true,
+  "signed_source_delivery": "6/6",
+  "tournaments": true,
+  "leaderboard": true,
+  "javascript_errors": [],
+  "match_id": 5
+}
